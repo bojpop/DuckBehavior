@@ -10,7 +10,10 @@ namespace DuckBehavior
     {
         static void Main(string[] args)
         {
-
+            Duck mallard = new MallardDuck();
+            mallard.performQuack();
+            mallard.performFly();
+            Console.ReadLine();
         }
     }
 }

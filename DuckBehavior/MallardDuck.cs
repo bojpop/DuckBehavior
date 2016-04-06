@@ -10,7 +10,7 @@ namespace DuckBehavior
     {
         public MallardDuck()
         {
-            quackBehavior = new Quack();
+            quackBehavior = new MuteQuack();
             flyBehavior = new FlyWithWings();
         }
 
