@@ -18,6 +18,9 @@ namespace DuckBehavior
             model.performFly();
             model.setFlyBehavior(new FlyRocketPowered());
             model.performFly();
+            model.performQuack();
+            model.setQuackBehavior(new Squeak());
+            model.performQuack();
 
             Console.ReadLine();
         }
