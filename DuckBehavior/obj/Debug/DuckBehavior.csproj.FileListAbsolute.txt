@@ -4,3 +4,9 @@ c:\users\bojan.m.popovic\documents\visual studio 2013\Projects\DuckBehavior\Duck
 c:\users\bojan.m.popovic\documents\visual studio 2013\Projects\DuckBehavior\DuckBehavior\bin\Debug\DuckBehavior.pdb
 c:\users\bojan.m.popovic\documents\visual studio 2013\Projects\DuckBehavior\DuckBehavior\obj\Debug\DuckBehavior.exe
 c:\users\bojan.m.popovic\documents\visual studio 2013\Projects\DuckBehavior\DuckBehavior\obj\Debug\DuckBehavior.pdb
+D:\Programming\Projects\DuckBehavior\DuckBehavior\bin\Debug\DuckBehavior.exe.config
+D:\Programming\Projects\DuckBehavior\DuckBehavior\obj\Debug\DuckBehavior.exe
+D:\Programming\Projects\DuckBehavior\DuckBehavior\obj\Debug\DuckBehavior.pdb
+D:\Programming\Projects\DuckBehavior\DuckBehavior\bin\Debug\DuckBehavior.exe
+D:\Programming\Projects\DuckBehavior\DuckBehavior\bin\Debug\DuckBehavior.pdb
+D:\Programming\Projects\DuckBehavior\DuckBehavior\obj\Debug\DuckBehavior.csprojResolveAssemblyReference.cache
